@@ -1,0 +1,9 @@
+venv*/
+tfenv/
+venv311/
+__pycache__/
+*.h5
+*.keras
+*.dylib
+*.pyc
+dataset/
